@@ -1,5 +1,4 @@
 # Image Processing Utility
-Image Processing Utility Project
 
 This command-line application has the following features:
 1. Converting an image to grayscale
